@@ -1,0 +1,58 @@
+[
+  {
+    "rating": "4.5",
+    "title":"BigCityBoi",
+    "text":"Binz - Touliver",
+    "img": "img/123404.jpg",
+    "audio": "https://data3.chiasenhac.com/downloads/2100/5/2099985-5615962a/128/Big%20City%20Boi%20-%20Binz_%20Touliver.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title":"Cho Mình Em",
+    "text":"Binz - Đen Vâu",
+    "img": "img/138000.jpg",
+    "audio": "https://data.chiasenhac.com/down2/2163/5/2162151-5e98da19/128/Cho%20Minh%20Em%20-%20Binz_%20Den.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title":"Lối Nhỏ",
+    "text":"Đen Vâu",
+    "img": "img/151033.jpg",
+    "audio": "https://data.chiasenhac.com/down2/2211/5/2210420-cad860c9/128/Loi%20Nho%20-%20Den_%20Phuong%20Anh%20Dao.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title":"Tell Ur Mom II",
+    "text":"Winno; Heily",
+    "img": "img/141810.jpg",
+    "audio": "https://data.chiasenhac.com/down2/2177/5/2176651-3924c972/128/Tell%20Ur%20Mom%20II%20-%20Winno_%20Heily.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title":"Querry",
+    "text":"QNT; Trung Trần; RPT MCK",
+    "img": "img/164460.jpg",
+    "audio": "https://data.chiasenhac.com/down2/2251/5/2250844-1c5bcf4b/128/Querry%20-%20QNT_%20Trung%20Tran_%20RPT%20MCK.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title":"Thích Quá Rùi Nà",
+    "text":"Trung Trần; TLinh",
+    "img": "img/129079.jpg",
+    "audio": "https://data3.chiasenhac.com/downloads/2123/5/2122880-81e1e8b7/128/Thich%20Qua%20Rui%20Na%20-%20TLinh_%20Trung%20Tran.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title":"Chìm Sâu",
+    "text":"MCK; Trung Trần",
+    "img": "img/157044.jpg",
+    "audio": "https://data.chiasenhac.com/down2/2230/5/2229564-d379b916/128/Chim%20Sau%20-%20MCK_%20Trung%20Tran.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title":"XTC (Xích Thêm Chút)",
+    "text":"Rapital; Groovie; Tlinh; MCK",
+    "img": "img/142163.jpg",
+    "audio": "https://data.chiasenhac.com/down2/2178/5/2177872-97997f6e/128/XTC%20Xich%20Them%20Chut_%20-%20Rapital_%20Groovie_.mp3"
+  }
+]
